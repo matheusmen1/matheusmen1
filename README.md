@@ -11,9 +11,8 @@
 
 ### 🧑‍💻 About Me
 - 🎓 I’m currently studying **Computer Science**.
-- 🌱 Learning more about **data structures**, **machine learning**, and **C programming**.
+- 🌱 Learning more about **data structures**, **database**, and **C programming**.
 - 🥋 Fitness enthusiast: I love **jiu-jitsu** and **hitting the gym**.
-- 🐾 Big fan of animals—let's talk about them anytime!
 
 ---
 
