@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Matheus Mendonça</h1>
-<h3 align="center">A passionate Computer Science student who loves coding, fitness, and animals 🐾</h3>
+<h3 align="center">A passionate Computer Science student who loves coding and fitness</h3>
 
 ---
 
@@ -44,14 +44,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-### ⚡ Fun Facts
-- 💡 My motto: **Code hard, train harder**!
-- 🌟 I’m an extroverted person, but only with the right people.
-- 🎮 When I'm not coding or training, you might find me gaming or watching tech videos!
-
----
-
-<p align="center">✨ Let's build something amazing together! ✨</p>
