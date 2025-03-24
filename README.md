@@ -1,43 +1,58 @@
-## Hi there! 👋 I'm Matheus Mendonça!
+<h1 align="center">Hi there! 👋 I'm Matheus Mendonça</h1>
+<h3 align="center">A passionate Computer Science student who loves coding, fitness, and animals 🐾</h3>
 
-🌟 Welcome to my GitHub profile! 🌟
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheusmen1&label=Profile%20views&color=0e75b6&style=flat" alt="matheusmen1" />
+</p>
+
+---
 
 ### 🧑‍💻 About Me
-- 🎓 I’m currently pursuing a **Bachelor's in Computer Science**.
-- 🥋 Fitness enthusiast: I love **jiu-jitsu** and hitting the **gym**.
-- 🐾 Passionate about **animals**.
-- 😄 Extroverted and confident (with the right people 😉).
+- 🎓 I’m currently studying **Computer Science**.
+- 🌱 Learning more about **data structures**, **machine learning**, and **C programming**.
+- 🥋 Fitness enthusiast: I love **jiu-jitsu** and **hitting the gym**.
+- 🐾 Big fan of animals—let's talk about them anytime!
 
 ---
 
-### 🔧 Tech & Tools
-- 💻 Languages: **Python**, **C**, **JavaScript**, **HTML/CSS**.
-- 🔍 Learning: Advanced algorithms, data structures, and **machine learning**.
-- 🛠️ Tools: **Git**, **VS Code**, **Linux**, **Docker**.
+### 🔧 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
-### 🚀 What I'm Working On
-- 📂 Building efficient **data structures** in C for Python integration.
-- 🧠 Diving into AI and automation projects.
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusmen1&show_icons=true&theme=radical" alt="Matheus's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmen1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 💬 Let's Connect!
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🌍 Personal Site: [matheusmendonca.dev](https://matheusmendonca.dev)
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-- I believe in living a balanced life: **code by day**, **train by night**, and **enjoy the little things** in between!
+### ⚡ Fun Facts
+- 💡 My motto: **Code hard, train harder**!
+- 🌟 I’m an extroverted person, but only with the right people.
+- 🎮 When I'm not coding or training, you might find me gaming or watching tech videos!
 
 ---
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusmen1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmen1&layout=compact&theme=radical)
-
----
-
-🎉 **Let's build something amazing together!** 🎉
+<p align="center">✨ Let's build something amazing together! ✨</p>
