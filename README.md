@@ -41,8 +41,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusmen1&show_icons=true&theme=radical" alt="Matheus's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmen1&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusmen1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmen1&layout=compact&theme=tokyonight" />
 </p>
 
