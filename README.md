@@ -4,7 +4,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I’m currently studying **Computer Science**.
-- 🌱 Learning more about **data structures**, **database**, and **C/C++ programming**.
+- 🌱 Learning more about **data structures**, **database**, and **Java programming**.
 - 🥋 Fitness enthusiast: I love **jiu-jitsu** and **hitting the gym**.
 
 ---
