@@ -1,14 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Matheus Mendonça</h1>
 <h3 align="center">A passionate Computer Science student who loves coding and fitness</h3>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheusmen1&label=Profile%20views&color=0e75b6&style=flat" alt="matheusmen1" />
-</p>
-
----
-
 ### 🧑‍💻 About Me
 - 🎓 I’m currently studying **Computer Science**.
 - 🌱 Learning more about **data structures**, **database**, and **C programming**.
