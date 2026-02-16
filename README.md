@@ -1,14 +1,16 @@
 <h1 align="center">Hi there! 👋 I'm Matheus Mendonça</h1>
 <h3 align="center">A passionate Computer Science student who loves coding and fitness</h3>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
+
 - 🎓 I’m currently studying **Computer Science**.
-- 🌱 Learning more about **data structures**, **database**, and **C programming**.
+- 🌱 Learning more about **data structures**, **database**, and **C/C++ programming**.
 - 🥋 Fitness enthusiast: I love **jiu-jitsu** and **hitting the gym**.
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
+
 ### Language
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,7 +37,8 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusmen1&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmen1&layout=compact&theme=tokyonight" />
