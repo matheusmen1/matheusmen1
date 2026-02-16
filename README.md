@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Matheus Mendonça</h1>
 <h3 align="center">A passionate Computer Science student who loves coding and fitness</h3>
 
+---
+
 ### 🧑‍💻 About Me
 - 🎓 I’m currently studying **Computer Science**.
 - 🌱 Learning more about **data structures**, **database**, and **C programming**.
